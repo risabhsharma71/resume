@@ -1,0 +1,122 @@
+body {
+  font-family: "Merriweather", serif;
+  font-size: 22px;
+  text-align: center;
+  color: #40514e;
+}
+
+h1 {
+  padding-top: 50px;
+  padding-bottom: 0;
+  margin: 0 auto;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+}
+h2 {
+  padding-top: 0px;
+  padding-bottom: 100px;
+  margin: 0 auto 10px auto;
+  font-size: 1.8rem;
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+}
+h3 {
+  margin: 0 auto;
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+p {
+  font-size: 1rem;
+}
+hr {
+  border: none;
+  border-top: 5px dotted lightgray;
+  height: 1px;
+  width: 5%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.top-container {
+  position: relative;
+  background-color: #e4f9f5;
+  margin: 0 auto;
+}
+.pro {
+  text-decoration: underline;
+}
+.bottomcloud {
+  position: absolute;
+  height: 120px;
+  width: 120px;
+  top: 30%;
+  left: 20%;
+}
+.topcloud {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  right: 9rem;
+}
+.middle-container {
+  padding-top: 60px;
+  background-color: #faf5ef;
+  text-align: center;
+}
+.bottom-container {
+  background-color: #66bfbf;
+}
+.round-image {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  background-color: #f5f2d0;
+}
+.mountain {
+  width: 40%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.codeImg {
+  width: 20%;
+  float: left;
+}
+.workImg {
+  width: 20%;
+  float: right;
+  margin-left: 100px;
+}
+.profile {
+  width: auto;
+}
+.shaping p {
+  margin: 0 0 0 170px;
+}
+.shaping h3 {
+  margin: 0 0 0 170px;
+}
+.btn {
+  border: 2px solid rgb(197, 197, 197);
+  background-color: #e4f9f5;
+  color: #66bfbf;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 2rem;
+  margin: 200px auto;
+}
+.btn:hover {
+  background-color: #11999e;
+}
+.contactme-logo {
+  width: 2%;
+  margin: 10px auto;
+}
+.foot-link {
+  font-size: 12px;
+}
